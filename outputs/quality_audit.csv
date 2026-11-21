@@ -1,0 +1,8 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,574
+date,object,0,0.0,574
+pce,float64,0,0.0,574
+pop,float64,0,0.0,574
+psavert,float64,0,0.0,115
+uempmed,float64,0,0.0,128
+unemploy,int64,0,0.0,550

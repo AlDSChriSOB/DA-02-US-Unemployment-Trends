@@ -1,0 +1,14 @@
+{
+  "id": 2,
+  "title": "US Unemployment Trends",
+  "question": "How did the number unemployed change over the recorded period?",
+  "x": "date",
+  "y": "unemploy",
+  "mode": "time",
+  "caveat": "Unemploy is a count in thousands, not an unemployment rate; population changes matter.",
+  "action": "Validate turning points against official labour statistics.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/ggplot2/economics.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/ggplot2/economics.html",
+  "metric_label": "mean unemploy",
+  "method": "Complete-case descriptive comparison of unemploy by date; show group counts, mean, minimum and maximum."
+}
